@@ -48,8 +48,8 @@ return [
 	| Model extend
 	|--------------------------------------------------------------------------
 	|
-	| Configuration for model extend.
-	| By default Eloquent model will be used
+	| Configuration for Model extend.
+	| By default Eloquent Model will be used
 	|
 	*/
 
